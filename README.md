@@ -5,11 +5,11 @@
 
 ### Download
 
-[📄 The AOA Framework](The%20AOA%20Framework.pdf)
+[📄 The AOA Framework](The%20AOA%20Framework.pdf): Standalone framework visual. The model at a glance.
 
-[📄 AOA White Paper — Full Publication](AOA_WhitePaper.pdf)
+[📄 AOA White Paper](AOA_WhitePaper.pdf): Full 10-page publication. Download to read completely.
 
-[📄 AOA One-Pager — Executive Read](AOA_OnePager.pdf)
+[📄 AOA One-Pager](AOA_OnePager.pdf): Executive read. 60 seconds.
 
 ---
 
