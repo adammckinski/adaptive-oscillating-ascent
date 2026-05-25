@@ -5,7 +5,7 @@
 
 ### Download
 
-[📄 The AOA Framework](The%20AOA%20Framework)
+[📄 The AOA Framework](The%20AOA%20Framework.pdf)
 
 [📄 AOA White Paper — Full Publication](AOA_WhitePaper.pdf)
 
